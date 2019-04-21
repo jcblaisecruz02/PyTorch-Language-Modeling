@@ -1,5 +1,5 @@
 # PyTorch Language Modeling
-A series of notebooks implementing key papers and architectures for neural language modeling. Don't hesitate to contact me if you find any bugs in the code!
+A series of notebooks implementing key papers and architectures for neural language modeling. I'm still rewriting my other stuff and I'll update this soonest I finish them. Don't hesitate to contact me if you find any bugs in the code!
 
 ### Requirements
 PyTorch 1.0 and TorchText 0.3
