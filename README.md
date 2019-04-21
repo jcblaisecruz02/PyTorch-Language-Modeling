@@ -1,5 +1,5 @@
-# PyTorch Language Modeling Notebooks
-A series of jupyter notebooks on some notable architectures in neural language modeling.
+# PyTorch Language Modeling
+A series of notebooks implementing key papers and architectures for neural language modeling. Don't hesitate to contact me if you find any bugs in the code!
 
 ### Requirements
 PyTorch 1.0 and TorchText 0.3
@@ -14,3 +14,5 @@ PyTorch 1.0 and TorchText 0.3
 
 ### Changelogs
 This repository is a work in progress and I will make notebooks available as early as I can, so be sure to check back often!
+* 04/20/19 -- Added Recurrent Highway Networks
+* 04/21/19 -- Added rewritten version of Weight-Tied LSTMs. Switched to WikiText-2 on post-2014 papers. Will upload the other notebooks as soon as I finish rewriting.
